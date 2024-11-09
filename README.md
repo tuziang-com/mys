@@ -4,7 +4,7 @@
 ## 脚本
 
 学习网站：
-绵阳市人力资源和社会保障局: https://rsj.my.gov.cn/
+绵阳市人力资源和社会保障局: https://rsj.my.gov.cn/  
 绵阳市专业技术人员继续教育公需科目培训平台: https://rsjapp.mianyang.cn/jxjy/pc/index.jhtml
 
 脚本地址：[绵阳市专业技术人员继续教育-刷课脚本][2]
